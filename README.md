@@ -18,28 +18,30 @@ This project features sound effects, mobile responsiveness, and is deployable on
 
 Project is created with:
 
-- Python.
-- flask.
 - HTML.
 - CSS.
 - JavaScript.
+- Node.js
+- React.js
+- mongodb
+- 
 
 ## Installation
 
-To run this project, install pip :
+To run this project, use :
 
 ```
-pip install
+npm install
 
 ```
 
 ## Usage
 
-After installing pip, Run cd hangman_game, And then python hangman_game.py in your terminal:
+After installing packages, Run cd backend then npm start and in different terminal Run frontend then npm start:
 
 ```
 
-python hangman_game.py
+npm start 
 
 ```
 A Link will pop up, Click that for using.
@@ -49,13 +51,13 @@ A Link will pop up, Click that for using.
 #### Screenshot
 
 - Home page <br>
-![Screenshot](https://github.com/Aarav619/Hangman_Game/blob/main/static/screenshots/home%20page.png?raw=true)
+![Screenshot]()
 
 - you win <br>
-![Screenshot](https://github.com/Aarav619/Hangman_Game/blob/main/static/screenshots/you%20win.png?raw=true)
+![Screenshot]()
 
 - you lose <br>
-![Screenschot](https://github.com/Aarav619/Hangman_Game/blob/main/static/screenshots/you%20lose.png?raw=true)
+![Screenschot]()
 
 
 ## Questions?
