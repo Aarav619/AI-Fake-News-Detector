@@ -24,7 +24,6 @@ Project is created with:
 - Node.js
 - React.js
 - mongodb
-- 
 
 ## Installation
 
