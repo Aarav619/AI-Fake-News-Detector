@@ -36,7 +36,7 @@ npm install
 
 ## Usage
 
-After installing packages, Run cd backend then npm start and in different terminal Run frontend then npm start:
+After installing packages, Run cd backend then npm start and in different terminal Run cd frontend then npm start:
 
 ```
 
@@ -52,10 +52,10 @@ A Link will pop up, Click that for using.
 - Home page <br>
 ![Screenshot]()
 
-- you win <br>
+- login page <br>
 ![Screenshot]()
 
-- you lose <br>
+- History <br>
 ![Screenschot]()
 
 
