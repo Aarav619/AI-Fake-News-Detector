@@ -1,5 +1,5 @@
-# Hangman Game.
-Hangman game with basic features.
+# Fake-news-checker.
+Fake-news-checker is a web app which provide the feature like verdicting the any news as Real Or Fake with valid reason. And it will also save all history after log in by email and can be used by even without login.
 
 ## Table of Contents
 
@@ -11,8 +11,8 @@ Hangman game with basic features.
 
 ## Description:
 
-A web-based Hangman game built with Python (Flask), HTML, CSS, and JavaScript.  
-This project features sound effects, mobile responsiveness, and is deployable online via Render.
+A web-app fake-news-checker built with  HTML, CSS, and JavaScript.  
+This project features verdict real or fake news, save the history, mobile responsive and is deployable online via Render.
 
 ## Technology:
 
